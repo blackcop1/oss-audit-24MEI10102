@@ -79,7 +79,3 @@ Specify a logfile and keyword:
 
 It generates a file named like:
 `manifesto_<username>_YYYY-MM-DD.txt`
-
-## Notes
-- Each script contains comments (required for marks).
-- Add screenshots of each script running in your PDF report.
